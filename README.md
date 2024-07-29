@@ -1,4 +1,8 @@
-## Hi there 👋
+# Nano
+
+**`CyberSecurity Researcher`**
+
+Hey! 👋 I'm Nano, a cybersecurity analyst specializing in pentesting and information gathering using OSINT techniques. My passion for cybersecurity began at the age of 12 when I started learning about various topics related to ethical hacking on my own. This led me to join different hacking and cybersecurity enthusiast communities. I have extensive knowledge as a Red Team member, and in my free time, I enjoy participating in CTFs that challenge my skills.
 
 <!--
 **godlynano/godlynano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
